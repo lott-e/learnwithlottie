@@ -1,0 +1,59 @@
+{
+  "*": {
+    "type": "page"
+  },
+  "index": {
+    "title": "Home",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw",
+      "sidebar": false,
+      "toc": true
+    }
+  },
+  "docs": "Roadmaps",
+  "integrations": {
+    "title": "Topics",
+    "type": "page",
+    "theme": {
+      "layout": "full",
+      "sidebar": false
+    }
+  },
+  "books": {
+    "title": "Books",
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "new-source-plugin": {
+    "title": "New Source Plugins",
+    "display": "hidden",
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "blog": {
+    "title": "Blog",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "confirm": {
+    "title": "Confirm",
+    "display": "hidden"
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "display": "hidden"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "display": "hidden"
+  },
+  "logo": {
+    "title": "Brand Logo",
+    "display": "hidden"
+  }
+}

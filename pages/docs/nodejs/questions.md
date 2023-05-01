@@ -1,0 +1,1 @@
+- What is meant by Blocking I/O and Non-Blocking I/O?
